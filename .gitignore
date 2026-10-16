@@ -1,0 +1,18 @@
+﻿# OS / IDE artefacts
+Thumbs.db
+.DS_Store
+*.log
+
+# Antigravity / Gemini temporary data
+.gemini/
+*.gemini/
+
+# Scratch / temporary scripts
+scratch/
+
+# VS Code settings
+.vscode/
+
+# Node / npm leftovers (not used but safe)
+node_modules/
+package-lock.json
