@@ -194,6 +194,7 @@ Then open `http://localhost:8000` in your web browser.
 ## 🌐 Deployment
 
 Ready for instantaneous zero-config continuous deployment:
+- **Live portfolio**: [shivangikushwaha-portfolio.vercel.app](https://shivangikushwaha-portfolio.vercel.app/)
 - **GitHub Pages**: Go to `Settings > Pages > Branch: main / root > Save`.
 - **Vercel**: Import repository and hit `Deploy`.
 - **Netlify**: Drag-and-drop the directory or connect Git repository.
